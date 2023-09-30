@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/kBYD5Rt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/kBYD5Rt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Image Description](https://imgur.com/a/1YrI6N9)
+![Image Description](https://imgur.com/a/1YrI6N9.jpg)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
