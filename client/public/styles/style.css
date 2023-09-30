@@ -1,0 +1,171 @@
+/* Reset default styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Center everything vertically and horizontally */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+/* Header Styles */
+.header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: transparent; /* Remove background color */
+    text-align: center;
+    border-radius: 5px;
+}
+
+.header-left img {
+    width: 100px; /* Increased image size */
+    height: auto;
+    margin-bottom: 10px; /* Move the image below the title */
+}
+
+.header-container h1 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: bold;
+    color: #333; /* Make the text black */
+}
+
+.header-right button {
+    background-color: transparent; /* Remove background color */
+    color: #007BFF; /* Blue text color */
+    border: 2px solid #007BFF; /* Add border */
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+}
+
+.header-right button:hover {
+    background-color: #007BFF; /* Blue background on hover */
+    color: white; /* White text color on hover */
+}
+
+/* Card Styles */
+.card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 600px; /* Reduce the card width */
+    margin: 20px auto;
+}
+
+.top-container img {
+    max-width: 150px; /* Increased image size */
+    margin-bottom: 10px;
+}
+
+.bottom-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+a[role="button"] {
+    width: 100%;
+    margin-top: 10px;
+    background-color: transparent; /* Remove background color */
+    color: #007BFF; /* Blue text color */
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid #007BFF; /* Add border */
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+a[role="button"]:hover {
+    background-color: #007BFF; /* Blue background on hover */
+    color: white; /* White text color on hover */
+}
+
+/* Company Info Styles */
+.company-info {
+    max-width: 800px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border-radius: 8px;
+    color: #333;
+}
+
+.image-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#logo {
+    max-width: 200px; /* Increased image size */
+    height: auto;
+}
+
+.company-details h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333; /* Make the text black */
+}
+
+.company-details p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    color: #333; /* Make the text black */
+}
+
+#lobbyingSpend {
+    font-weight: bold;
+    color: #007BFF;
+}
+
+/* Search Bar Styles */
+.search-bar-container {
+    text-align: center;
+}
+
+#search-bar {
+    width: 20%;
+    margin: auto;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #007BFF;
+    font-size: 16px;
+}
+
+.company-details button {
+    width: 120px;
+    margin: 20px auto;
+    background-color: transparent; /* Remove background color */
+    color: #007BFF; /* Blue text color */
+    border: 2px solid #007BFF; /* Add border */
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.company-details button:hover {
+    background-color: #007BFF; /* Blue background on hover */
+    color: white; /* White text color on hover */
+}
