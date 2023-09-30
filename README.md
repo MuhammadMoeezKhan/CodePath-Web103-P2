@@ -1,10 +1,10 @@
-# WEB103 Project 2 - *Listicle*
+# WEB103 Project 2 - *Dream Wheels*
 
-Submitted by: **Marcelino Pangilinan**
+Submitted by: **Moeez**
 
-About this web app: **Web application that displays several company and their social responsibilities**
+About this web app: **Web application that displays the top 5 luxury car brands**
 
-Time spent: **3** hours
+Time spent: **4** hours
 
 ## Required Features
 
@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/kBYD5Rt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Image Description](https://imgur.com/enX0rI4.jpg)
+![Image Description](https://imgur.com/a/1YrI6N9)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [2023] [Marcelino Pangilinan]
+Copyright [2023] [Muhammad Moeez Khan]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
