@@ -30,7 +30,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://im4.ezgif.com/tmp/ezgif-4-149e543178.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Database Screenshot](https://ibb.co/n0RTrLR)
+[Database Screenshot](https://ibb.co/n0RTrLR)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
